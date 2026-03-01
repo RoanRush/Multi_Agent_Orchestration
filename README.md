@@ -1,6 +1,6 @@
 # 🤖 Multi AI Agent Orchestration
 
-A **LangGraph-powered multi-agent system** that orchestrates specialized AI agents - Researcher, Analyst, and Writer - to collaboratively solve complex tasks with sub-2s average response time.
+A **LangGraph-powered multi-agent system** that orchestrates specialized AI agents - Researcher, Analyst, and Writer - to collaboratively solve complex tasks with lower average response time.
 
 ## Architecture
 
