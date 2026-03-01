@@ -76,7 +76,7 @@ curl -X POST http://localhost:8000/run \
   "task": "Explain the pros and cons...",
   "result": "## Microservices vs Monolithic Architecture\n\n...",
   "iterations": 3,
-  "latency_ms": 1847.3
+  "latency_ms": 1850
 }
 ```
 
